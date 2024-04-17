@@ -37,5 +37,5 @@ for (let i = 1; i <= 10; i = i + 1){
 
 const namaMahasiswa=['Mie', 'Shie', 'Chao']
 for (let i = 0; i < namaMahasiswa.length ;i++){
-    
+    console.log('NIM :${i+1} nama : ${namaMahasiswa[i]}');
 }
